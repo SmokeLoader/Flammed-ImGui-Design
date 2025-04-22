@@ -2,11 +2,10 @@
 
 A ImGui Loader made with DirectX 11 in C++
 
-**Pictures**
-> Login Screen
-![[login_screen.jpg]]
->Main GUI
-![[main_screen.png]]
+# Pictures
+
+![](https://github.com/SmokeLoader/Flammed-ImGui-Design/blob/main/images/login_screen.jpg)
+![](https://github.com/SmokeLoader/Flammed-ImGui-Design/blob/main/images/main_screen.png)
 
 **Compilation**
 1. Download  & Extract the Source Code
